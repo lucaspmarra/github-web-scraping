@@ -1,0 +1,12 @@
+{
+  "name": "github_opportunities",
+  "version": "1.0.0",
+  "description": "A web scraping made to get info about Vue opportunities from 'frontendbr' github repo made by Felipe Fialho",
+  "main": "src/index.js",
+  "author": "Lucas Marra <marralucas1@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^22.8.1"
+  }
+}
